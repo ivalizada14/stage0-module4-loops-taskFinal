@@ -18,9 +18,7 @@ public class Pyramid {
 
                 else{
                     System.out.print(' ');
-                    //System.out.print(x);
-                    //System.out.print(' ');
-                    //System.out.print(y);
+
                 }
             }
             System.out.println();
